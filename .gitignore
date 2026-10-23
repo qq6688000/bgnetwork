@@ -1,0 +1,5 @@
+*.o
+*.deb
+*.tipa
+modcache/
+out/
